@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Extension method\Staticclasstask\Staticclasstask\bin\Debug\net6.0\Staticclasstask.exe
+C:\Users\user\Desktop\Extension method\Staticclasstask\Staticclasstask\bin\Debug\net6.0\Staticclasstask.deps.json
+C:\Users\user\Desktop\Extension method\Staticclasstask\Staticclasstask\bin\Debug\net6.0\Staticclasstask.runtimeconfig.json
+C:\Users\user\Desktop\Extension method\Staticclasstask\Staticclasstask\bin\Debug\net6.0\Staticclasstask.dll
+C:\Users\user\Desktop\Extension method\Staticclasstask\Staticclasstask\bin\Debug\net6.0\Staticclasstask.pdb
+C:\Users\user\Desktop\Extension method\Staticclasstask\Staticclasstask\obj\Debug\net6.0\Staticclasstask.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Extension method\Staticclasstask\Staticclasstask\obj\Debug\net6.0\Staticclasstask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Extension method\Staticclasstask\Staticclasstask\obj\Debug\net6.0\Staticclasstask.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Extension method\Staticclasstask\Staticclasstask\obj\Debug\net6.0\Staticclasstask.AssemblyInfo.cs
+C:\Users\user\Desktop\Extension method\Staticclasstask\Staticclasstask\obj\Debug\net6.0\Staticclasstask.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Extension method\Staticclasstask\Staticclasstask\obj\Debug\net6.0\Staticclasstask.dll
+C:\Users\user\Desktop\Extension method\Staticclasstask\Staticclasstask\obj\Debug\net6.0\refint\Staticclasstask.dll
+C:\Users\user\Desktop\Extension method\Staticclasstask\Staticclasstask\obj\Debug\net6.0\Staticclasstask.pdb
+C:\Users\user\Desktop\Extension method\Staticclasstask\Staticclasstask\obj\Debug\net6.0\Staticclasstask.genruntimeconfig.cache
+C:\Users\user\Desktop\Extension method\Staticclasstask\Staticclasstask\obj\Debug\net6.0\ref\Staticclasstask.dll
